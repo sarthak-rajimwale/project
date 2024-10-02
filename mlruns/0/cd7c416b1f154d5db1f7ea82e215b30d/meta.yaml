@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DA%20Projects/Sample/mlruns/0/cd7c416b1f154d5db1f7ea82e215b30d/artifacts
+end_time: 1727866860112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd7c416b1f154d5db1f7ea82e215b30d
+run_name: bold-fox-366
+run_uuid: cd7c416b1f154d5db1f7ea82e215b30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727866847511
+status: 3
+tags: []
+user_id: root
